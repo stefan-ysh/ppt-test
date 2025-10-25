@@ -3,8 +3,11 @@ node_modules/
 .pnp
 .pnp.js
 
+
 # 构建输出
 dist/
+.next/
+out/
 
 # 生成的报告
 coverage/
